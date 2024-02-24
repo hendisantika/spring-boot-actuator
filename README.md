@@ -11,7 +11,7 @@
 
 Dashboard Page
 
-![Dashboard Page](img/dashboard.png "Dashboard Page)
+![Dashboard Page](img/dashboard.png "Dashboard Page")
 
 Info Page
 
